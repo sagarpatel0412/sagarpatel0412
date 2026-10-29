@@ -1,16 +1,190 @@
-## Hi there 👋
 
-<!--
-**sagarpatel0412/sagarpatel0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Sagar Patel 👋
 
-Here are some ideas to get you started:
+### Software Engineer | Full-Stack Developer | Cloud & AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Software Engineer based in **Ahmedabad, India 🇮🇳**, with **4+ years of professional experience** developing scalable web applications, backend services, microservices, and AI-powered automation solutions.
+
+I specialize in building modern full-stack applications using **React, Next.js, Node.js, NestJS, and TypeScript**, with hands-on experience in cloud infrastructure, API development, and production deployment.
+
+I enjoy solving engineering challenges, designing scalable architectures, and exploring the possibilities of artificial intelligence.
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 **Portfolio:** [sagarpatel0412.github.io](https://sagarpatel0412.github.io)
+- 💼 **LinkedIn:** [Sagar Patel](https://www.linkedin.com/in/sagar-patel-9497b81b6)
+- 🐙 **GitHub:** [@sagarpatel0412](https://github.com/sagarpatel0412)
+- 📧 **Email:** [sagar.patel.15.sp@gmail.com](mailto:sagar.patel.15.sp@gmail.com)
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Software Engineer with **4+ years of experience** in full-stack development.
+- 🚀 Experienced in developing scalable web applications and microservices.
+- 🧠 Interested in **Artificial Intelligence, Machine Learning, and automation**.
+- ☁️ Hands-on experience with **AWS, Microsoft Azure, Docker, and cloud deployments**.
+- ⚡ Experienced in **REST APIs, GraphQL, and backend architecture**.
+- 🏗️ Passionate about clean code, performance optimization, and maintainable systems.
+- 📚 Continuously learning cloud architecture, distributed systems, and AI technologies.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+`JavaScript` `TypeScript` `Python` `SQL`
+
+### Frontend Development
+
+`React.js` `Next.js` `Angular` `HTML5` `CSS3`
+
+### Backend Development
+
+`Node.js` `NestJS` `Express.js` `Flask` `REST APIs` `GraphQL`
+
+### Databases
+
+`PostgreSQL` `MySQL`
+
+### Cloud & DevOps
+
+`AWS` `Azure` `Docker` `Linux` `Git` `GitHub`
+
+### Architecture & Engineering
+
+`Microservices` `API Design` `Cloud Deployment` `Authentication` `Performance Optimization` `AI API Integration`
+
+---
+
+## 💼 Professional Experience
+
+### Software Developer — Bitontree
+**December 2025 – March 2026 | Ahmedabad, India**
+
+- Developed full-stack applications using React.js and NestJS.
+- Integrated third-party AI APIs for intelligent workflow automation.
+- Implemented scalable microservices architecture.
+- Improved backend efficiency, maintainability, and application performance.
+
+**Technologies:** React.js, NestJS, Node.js, TypeScript, AI APIs, Microservices
+
+### Software Engineer — Gateway Group of Companies
+**May 2025 – November 2025 | Ahmedabad, India**
+
+- Built and maintained scalable microservices using Node.js and TypeScript.
+- Worked with React and Next.js frontend applications.
+- Integrated Microsoft Azure services, including Entra Directory and AKS.
+- Developed reusable npm packages.
+- Implemented Docker containerization and contributed to enterprise applications.
+
+**Technologies:** Node.js, TypeScript, React, Next.js, Azure, Docker, Microservices
+
+### Senior Software Engineer — iFlair Web Technologies
+**January 2022 – May 2025 | Ahmedabad, India**
+
+- Developed scalable applications using React.js, Next.js, Angular, and Node.js.
+- Designed and implemented REST and GraphQL APIs.
+- Worked with PostgreSQL and MySQL databases.
+- Deployed and maintained applications on AWS, Firebase, and DigitalOcean.
+- Optimized application performance and followed clean architecture practices.
+
+**Technologies:** React.js, Next.js, Angular, Node.js, NestJS, PostgreSQL, MySQL, AWS
+
+---
+
+## 🚀 What I Build
+
+### 🌐 Full-Stack Web Applications
+Modern, scalable applications combining interactive frontend experiences with robust backend services.
+
+### ⚙️ Backend APIs & Microservices
+RESTful APIs, GraphQL services, modular backend architecture, authentication, and enterprise integrations.
+
+### 🤖 AI-Powered Automation
+Applications integrating artificial intelligence APIs for intelligent workflows, automation, and task execution.
+
+### ☁️ Cloud-Native Applications
+Cloud deployments, containerized services, infrastructure integration, and scalable application hosting.
+
+### 🛒 E-Commerce Platforms
+Product management, collections, administrative dashboards, backend APIs, and data-driven user experiences.
+
+---
+
+## 📂 My Projects
+
+Explore my repositories to find applications, experiments, and development projects involving:
+
+- Full-stack web development
+- React and Next.js applications
+- Node.js and NestJS backend services
+- AI-powered applications and automation
+- Cloud and DevOps experiments
+- Database-driven platforms
+
+**🔗 [Explore My GitHub Repositories](https://github.com/sagarpatel0412?tab=repositories)**
+
+**🌍 [Visit My Portfolio for Featured Projects](https://sagarpatel0412.github.io)**
+
+---
+
+## 🎓 Education
+
+### Master of Science in Artificial Intelligence
+**International Institute of Information Technology Bangalore (IIITB)**
+
+August 2025 – Present | Pursuing
+
+### Bachelor of Technology in Information Technology
+**SVMIT, Bharuch**
+
+August 2017 – June 2021
+
+**GPA:** 8.4
+
+---
+
+## 📜 Certifications
+
+- **Executive Postgraduate Programme in AI** — IIIT Bangalore (2025)
+- **Front-End Web Development with React** — Coursera (2019)
+- **IoT Program** — Expertshub (2018)
+
+---
+
+## 🎯 Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Full-Stack Software Engineering
+- Backend Architecture & Distributed Systems
+- Cloud Computing & DevOps
+- Microservices & API Development
+- Intelligent Workflow Automation
+- Scalable Application Design
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm interested in connecting with developers, engineers, and technology enthusiasts working on exciting software projects.
+
+Whether it's **full-stack development, backend engineering, cloud infrastructure, or AI-powered applications**, I'm always open to discussing interesting technical challenges and opportunities.
+
+Feel free to reach out through LinkedIn or email.
+
+📧 **Email:** [sagar.patel.15.sp@gmail.com](mailto:sagar.patel.15.sp@gmail.com)
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sagar-patel-9497b81b6)
+
+🌍 **Portfolio:** [Visit my website](https://sagarpatel0412.github.io)
+
+---
+
+### "Build. Learn. Improve. Repeat."
+
+**Thanks for visiting my GitHub profile!**
+
