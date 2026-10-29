@@ -60,42 +60,6 @@ I enjoy solving engineering challenges, designing scalable architectures, and ex
 
 ---
 
-## 💼 Professional Experience
-
-### Software Developer — Bitontree
-**December 2025 – March 2026 | Ahmedabad, India**
-
-- Developed full-stack applications using React.js and NestJS.
-- Integrated third-party AI APIs for intelligent workflow automation.
-- Implemented scalable microservices architecture.
-- Improved backend efficiency, maintainability, and application performance.
-
-**Technologies:** React.js, NestJS, Node.js, TypeScript, AI APIs, Microservices
-
-### Software Engineer — Gateway Group of Companies
-**May 2025 – November 2025 | Ahmedabad, India**
-
-- Built and maintained scalable microservices using Node.js and TypeScript.
-- Worked with React and Next.js frontend applications.
-- Integrated Microsoft Azure services, including Entra Directory and AKS.
-- Developed reusable npm packages.
-- Implemented Docker containerization and contributed to enterprise applications.
-
-**Technologies:** Node.js, TypeScript, React, Next.js, Azure, Docker, Microservices
-
-### Senior Software Engineer — iFlair Web Technologies
-**January 2022 – May 2025 | Ahmedabad, India**
-
-- Developed scalable applications using React.js, Next.js, Angular, and Node.js.
-- Designed and implemented REST and GraphQL APIs.
-- Worked with PostgreSQL and MySQL databases.
-- Deployed and maintained applications on AWS, Firebase, and DigitalOcean.
-- Optimized application performance and followed clean architecture practices.
-
-**Technologies:** React.js, Next.js, Angular, Node.js, NestJS, PostgreSQL, MySQL, AWS
-
----
-
 ## 🚀 What I Build
 
 ### 🌐 Full-Stack Web Applications
